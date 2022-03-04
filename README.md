@@ -1,7 +1,5 @@
 - Hi, I’m @bikashghimire
-- I’m interested in Full stack development
-- I’m currently learning Front end stack
-- I’m looking to forward to enhance my skill in full stack development
+- Interested in Full stack development
 - How to reach me : bikashghimire2610@gmail.com
 
 <!---
