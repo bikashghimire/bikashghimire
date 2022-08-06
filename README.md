@@ -20,7 +20,7 @@
 - :telescope: I’m aspiring Software Engineer and continously working to develop my skills further.
 - :seedling: Exploring github.
 - :zap: In my free time, I check open projects on github and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bikashghimire/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
