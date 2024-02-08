@@ -16,11 +16,11 @@
 ---
 
 ### :man_technologist: About Me :
-    I am a Full Stack Developer.
+    I am a Full Stack Developer focused in Front End Development.
 - :telescope: I’m an aspiring Software Engineer and continuously learning, working to develop my skills further.
 - :seedling: Exploring github.
 - :zap: In my free time, I check open projects on github and read tech articles.
-- :mailbox:How to reach out to me: 
+- :mailbox: How to reach out to me: 
 [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bikashghimire/)
 ---
 
