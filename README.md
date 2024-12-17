@@ -52,7 +52,6 @@ I am a **Full Stack Developer** with a passion for **Front-End Development**.
 
 ### 📈 GitHub Stats :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikashghimire&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikashghimire&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
