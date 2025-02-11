@@ -23,7 +23,7 @@ I am a **Full Stack Developer** with a passion for **Front-End Development**.
 
 - 🌱 **Always Learning**: Continuously exploring new technologies and refining my skills.
 - 🌐 **Exploring GitHub**: I enjoy discovering and contributing to open-source projects.
-- ⚡ **In My Free Time**: I read tech articles and solve problems on  [LeetCode](https://leetcode.com/u/bikashghimire/problems).
+- ⚡ **In My Free Time**: I read tech articles and solve problems on  [LeetCode](https://leetcode.com/u/bikashghimire/).
 - 📫 **Reach Out**: Let's connect on [LinkedIn](https://www.linkedin.com/in/bikashghimire/).
 
 ---
